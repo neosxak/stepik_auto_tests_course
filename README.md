@@ -1,2 +1,9 @@
-# stepik_auto_tests_course  
-  HELLO WORLD  
+# Решения заданий по курсу "Автоматизация тестирования"
+
+- **Задача 3.5**: Тест для API ([ссылка на задание](https://stepik.org/lesson/12345))
+- **Задача 1.2**: Selenium-тест ([ссылка на задание](https://stepik.org/lesson/54321))
+
+Как запустить:
+```bash
+python solution_task_1.py
+```
